@@ -13,5 +13,5 @@
 **Источники:**
 - [Reuters: Американские следователи считают, что удар по школе в Иране нанесли США](https://www.rnz.co.nz/news/world/588856/us-investigation-points-to-likely-us-responsibility-in-iran-school-strike-sources-say)
 - [Bellingcat: Геолокация и анализ удара по школе в Минабе](https://www.bellingcat.com/news/2026/03/01/geolocating-the-strike-on-a-school-in-minab-iran/)
-- [The New York Times: U.S. Strike in Iran Appears to Have Hit School, Reports Say](https://www.nytimes.com/2026/03/01/world/middleeast/iran-school-strike-us.html)
+- [The New York Times: U.S. Strike in Iran Appears to Have Hit School, Reports Say](https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html)
 - [BBC News: Iran school attack: US investigating possible role in deadly strike](https://www.bbc.com/news/world-middle-east-68675432)
