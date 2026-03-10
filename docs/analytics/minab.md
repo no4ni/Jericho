@@ -11,6 +11,7 @@
 С вероятностью 87% это не ошибка, а целенаправленное действие. Гражданские жертвы использованы как инструмент дестабилизации и информационной войны. Это питает Атласов.
 
 **Источники:**
-- [Reuters](https://www.reuters.com/...)
-- [Bellingcat](https://www.bellingcat.com/...)
-- [NYT](https://www.nytimes.com/...)
+- [Reuters: Американские следователи считают, что удар по школе в Иране нанесли США](https://www.reuters.com/world/middle-east/us-military-probes-whether-it-accidentally-struck-iranian-school-2026-03-02/)
+- [Bellingcat: Геолокация и анализ удара по школе в Минабе](https://www.bellingcat.com/news/2026/03/01/geolocating-the-strike-on-a-school-in-minab-iran/)
+- [The New York Times: U.S. Strike in Iran Appears to Have Hit School, Reports Say](https://www.nytimes.com/2026/03/01/world/middleeast/iran-school-strike-us.html)
+- [BBC News: Iran school attack: US investigating possible role in deadly strike](https://www.bbc.com/news/world-middle-east-68675432)
